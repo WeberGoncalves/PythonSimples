@@ -30,6 +30,6 @@ Ao final, você terá domínio na construção de agentes de IA prontos para apl
 
 ## 💡 Conclusão
 Prepare-se para revolucionar sua forma de trabalhar com IA!  
-Este curso contém materiais promocionais na aula bônus e guiará você na jornada de **configurar ambientes, criar agentes multitarefas, integrar ferramentas e automatizar processos com eficiência**.
+Este curso guiará você na jornada de **configurar ambientes, criar agentes multitarefas, integrar ferramentas e automatizar processos com eficiência**.
 
 ...
